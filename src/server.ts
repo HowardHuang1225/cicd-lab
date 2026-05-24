@@ -15,4 +15,3 @@ async function start() {
 }
 
 void start();
-const a: string = 123;
